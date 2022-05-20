@@ -14,7 +14,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <gson.verson>2.3.1</gson.verson>
+        <gson.verson>2.8.9</gson.verson>
         <guava.version>16.0</guava.version>
         <auto-value.version>1.7</auto-value.version>
         <commons-codec.version>1.13</commons-codec.version>
