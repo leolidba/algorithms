@@ -29,7 +29,7 @@
         <assertj-joda-time.version>2.2.0</assertj-joda-time.version>
         <maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>
         <maven-javadoc-plugin.version>2.8.1</maven-javadoc-plugin.version>
-        <snakeyaml.version>1.25</snakeyaml.version>
+        <snakeyaml.version>1.26</snakeyaml.version>
         <avro-maven-plugin.version>1.9.1</avro-maven-plugin.version>
         <avro.version>1.9.1</avro.version>
     </properties>
